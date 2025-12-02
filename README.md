@@ -29,13 +29,13 @@ Metty Express Delivery is a web-based shipping and tracking application built wi
 3. Users enter the tracking ID on the website to track their shipment  
 4. Shipment status updates in real-time  
 
-## Live Demo
+## Visit App
 
-Try the live app here:  
-[Metty Express Live Demo](https://metty-express-delivery.web.app/)
+Use App:  
+[Metty Express Delivery](https://metty-express-delivery.web.app/)
 
-## Social / Updates
+## Social media / Live demo
 
-Follow updates about Metty Express and related projects:  
+watch how it works:  
 [TikTok Post](https://www.tiktok.com/@comedianholland1/video/7578263530768485643)
 

@@ -20,7 +20,7 @@ Metty Express Delivery is a web-based shipping and tracking application built wi
 
 ## Screenshots
 
-![Metty Express Screenshot](https://i.ibb.co/9kjrXNYH/1000716147.jpg)
+![Metty Express Screenshot](https://i.ibb.co/9kjrXNYH/1000716147.jpg))
 
 ## How to Use
 
